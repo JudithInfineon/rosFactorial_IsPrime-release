@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ros_factorial_isprime-release</name>
-  <version>{version}</version>
+  <version>0.0.1</version>
   <description>The ros_factorial_isprime package-release</description>
   <maintainer email="Yi.Ju@infineon.com">Yi Ju</maintainer>
   <license>TODO</license>
