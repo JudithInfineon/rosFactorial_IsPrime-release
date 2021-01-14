@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ros_factorial_isprime-release</name>
-  <version>0.0.1</version>
+  <version>{version}</version>
   <description>The ros_factorial_isprime package-release</description>
   <maintainer email="Yi.Ju@infineon.com">Yi Ju</maintainer>
   <license>TODO</license>
@@ -27,6 +27,7 @@
   <!-- Use doc_depend for packages you need only for building documentation: -->
   <!--   <doc_depend>doxygen</doc_depend> -->
   <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>catkin</run_depend>
   <depend>roscpp</depend>
   <depend>rostest</depend>
 
